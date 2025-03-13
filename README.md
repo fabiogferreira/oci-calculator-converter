@@ -90,6 +90,10 @@ Este arquivo JSON pode ser importado no OCI Calculator para visualizar a estimat
 - Os SKUs e preços são fixos no código e podem precisar ser atualizados conforme mudanças na OCI
 - A moeda está fixada como BRL (Real Brasileiro)
 
+## Atenção em relação aos valores padrão!
+- O programa assume valores padrão mas não há com o que se preocupar uma vez que a calculadora da Oracle OCI atualiza para os valores corretos quanto da importação
+- O objetivo deste programa não é unicamente facilitar a importação de um grande número de registros de máquinas virtuais de uma única vez, os ajustes preferencialmente devem ser feito na própria calculadora OCI após a importação
+
 ## Solução de Problemas
 
 ### Erro ao abrir o arquivo CSV
