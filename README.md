@@ -4,7 +4,7 @@ Uma ferramenta para converter arquivos CSV em formato JSON compatível com o Ora
 
 ## Descrição
 
-O OCI Calculator Converter é uma ferramenta de linha de comando que permite converter dados de máquinas virtuais e armazenamento de um arquivo CSV para o formato JSON utilizado pelo OCI Calculator. Isso facilita a criação de estimativas de custo para infraestrutura na Oracle Cloud.
+O OCI Calculator Converter é uma ferramenta de linha de comando que permite converter dados de máquinas virtuais e armazenamento de um arquivo CSV para o formato JSON utilizado pelo OCI Calculator. Isso facilita a criação de estimativas de custo para infraestrutura na Oracle Cloud. Seu objetivo portanto é facilitar a criação de cenários onde temos uma quantidade grande de máquinas virtuais, por exemplo, em projetos de migração VMWare para Oracle OCI
 
 ## Requisitos
 
@@ -92,7 +92,8 @@ Este arquivo JSON pode ser importado no OCI Calculator para visualizar a estimat
 
 ## Atenção em relação aos valores padrão!
 - O programa assume valores padrão mas não há com o que se preocupar uma vez que a calculadora da Oracle OCI atualiza para os valores corretos quanto da importação
-- O objetivo deste programa não é unicamente facilitar a importação de um grande número de registros de máquinas virtuais de uma única vez, os ajustes preferencialmente devem ser feito na própria calculadora OCI após a importação
+- O objetivo primário deste programa é facilitar a importação de um grande número de registros de máquinas virtuais de uma única vez, os ajustes preferencialmente devem ser feito na própria calculadora OCI após a importação
+
 
 ## Solução de Problemas
 
