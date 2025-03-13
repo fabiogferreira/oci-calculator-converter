@@ -1,0 +1,7 @@
+# Este arquivo lista as dependências externas necessárias para o OCI Calculator Converter
+# Atualmente, o programa utiliza apenas bibliotecas padrão do Python, então este arquivo está vazio
+# Mas está incluído para facilitar futuras extensões que possam requerer bibliotecas externas
+
+# Exemplo de como adicionar dependências:
+# requests>=2.25.1
+# pandas>=1.3.0 

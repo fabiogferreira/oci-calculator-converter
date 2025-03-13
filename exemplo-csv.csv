@@ -1,0 +1,6 @@
+Label;Qtd;OS;Shape;OCPU;RAM_GB;Storage_GB;Performance_Units
+Servidor CentOS;2;centos;VM.Standard.E4.Flex;8;128;100;1000
+Servidor Windows;1;windows;VM.Standard.E4.Flex;4;64;200;2000
+Servidor Oracle Linux;3;oracle;VM.Standard.E4.Flex;16;256;500;5000
+Servidor Ubuntu;1;ubuntu;VM.Standard.E4.Flex;2;32;50;500
+Servidor Windows QA;2;windows;VM.Standard.E2.1;2;32;100;1000 
